@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    border: solid 5px black;
+}
+li {
+   list-style-type: none;
+   margin-right: 10px;
+}
+
+#titles {
+    list-style-type: none;
+    display: flex;
+   
+}
